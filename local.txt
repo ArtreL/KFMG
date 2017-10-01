@@ -1,2 +1,2 @@
 This is a local file.
-This change was made in the local repository.
+This change was made to resolve the conflict.
